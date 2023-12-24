@@ -1,0 +1,3 @@
+- write about elemental weather, think about implications depending on relevant locations
+- folder on characters and details I think
+- maybe folder for custom rules

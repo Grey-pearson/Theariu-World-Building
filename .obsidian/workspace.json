@@ -14,8 +14,69 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "9db3a3cf4c7af1a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO-DO's.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "294c35b46b72def4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO-DO's.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac40020319caf373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/Die Hard with father Christmas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32808b31b5eb4a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Violets half orc half elf stronk mommy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "730235e65ed369d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO-DO's.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -81,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TO-DO's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TO-DO's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TO-DO's.md"
+              }
             }
           }
         ]
@@ -138,8 +203,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c16a5bcb936ea0a",
+  "active": "730235e65ed369d4",
   "lastOpenFiles": [
+    "Characters/Tev's EDM bard artificer dwarf.md",
+    "Characters/Violets half orc half elf stronk mommy.md",
+    "Stories/Die Hard with father Christmas.md",
+    "Characters",
+    "TO-DO's.md",
+    "Stories",
+    "World-Building/Elemental Weather.md",
+    "World-Building",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
