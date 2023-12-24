@@ -1,0 +1,1 @@
+A journal of the world of Theariu pronounced like 'the area', and its adventures, facts, locations, magic, characters, and other information.
